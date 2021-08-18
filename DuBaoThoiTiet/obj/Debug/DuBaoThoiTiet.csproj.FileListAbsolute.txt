@@ -1,0 +1,10 @@
+E:\heChuyenGia\BTL\DuBaoThoiTiet\DuBaoThoiTiet\bin\Debug\DuBaoThoiTiet.exe.config
+E:\heChuyenGia\BTL\DuBaoThoiTiet\DuBaoThoiTiet\bin\Debug\DuBaoThoiTiet.exe
+E:\heChuyenGia\BTL\DuBaoThoiTiet\DuBaoThoiTiet\bin\Debug\DuBaoThoiTiet.pdb
+E:\heChuyenGia\BTL\DuBaoThoiTiet\DuBaoThoiTiet\obj\Debug\DuBaoThoiTiet.csproj.AssemblyReference.cache
+E:\heChuyenGia\BTL\DuBaoThoiTiet\DuBaoThoiTiet\obj\Debug\DuBaoThoiTiet.Form1.resources
+E:\heChuyenGia\BTL\DuBaoThoiTiet\DuBaoThoiTiet\obj\Debug\DuBaoThoiTiet.Properties.Resources.resources
+E:\heChuyenGia\BTL\DuBaoThoiTiet\DuBaoThoiTiet\obj\Debug\DuBaoThoiTiet.csproj.GenerateResource.cache
+E:\heChuyenGia\BTL\DuBaoThoiTiet\DuBaoThoiTiet\obj\Debug\DuBaoThoiTiet.csproj.CoreCompileInputs.cache
+E:\heChuyenGia\BTL\DuBaoThoiTiet\DuBaoThoiTiet\obj\Debug\DuBaoThoiTiet.exe
+E:\heChuyenGia\BTL\DuBaoThoiTiet\DuBaoThoiTiet\obj\Debug\DuBaoThoiTiet.pdb
